@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Htoo+Tay+Za" alt="Htoo Tay Za" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%C2%B7+Backend+Developer;RAG+pipelines+%C2%B7+Agentic+orchestration;LLM+memory+%C2%B7+API+infrastructure;Self-taught.+No+shortcuts." alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%C2%B7+Backend+Developer;RAG+pipelines+%C2%B7+Agentic+orchestration;LLM+memory+%C2%B7+API+infrastructure;Self-taught." alt="Subtitle" />
 
 <br/>
 
